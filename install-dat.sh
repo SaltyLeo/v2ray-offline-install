@@ -3,8 +3,8 @@
 
 # This Bash script to install the latest release of geoip.dat and geosite.dat:
 
-# https://ghproxy.com/https://github.com/v2fly/geoip
-# https://ghproxy.com/https://github.com/v2fly/domain-list-community
+# https://github.com/v2fly/geoip
+# https://github.com/v2fly/domain-list-community
 
 # Depends on cURL, please solve it yourself
 
